@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Sakshi Kadave</h1>
+<h1 align="center"> I'm Sakshi Kadave</h1>
 <h3 align="center">💻 Full-Stack Web Developer | 🇮🇳 India</h3>
 
 <p align="center">
