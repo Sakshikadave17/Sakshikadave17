@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Sakshi Kadave</h1>
-<h3 align="center">💻 Full-Stack Web Developer | 🇮🇳 India</h3>
+<h3 align="center">💻  Web Developer | 🇮🇳 India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always+Learning+New+Tech;Loves+Clean+UI+and+Debugging&center=true&width=500&height=45" />
